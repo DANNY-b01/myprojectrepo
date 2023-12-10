@@ -1,0 +1,102 @@
+.contact_container{
+    background-color: rgb(241, 241, 241);
+    display: grid;
+    /* flex-wrap: wrap; */
+
+
+}
+.contact_container2{
+    background-color: white ;
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+}
+.continfo_form{
+    display: flex;
+
+}
+
+.map{
+    background-repeat: no-repeat;
+    background-color: rgb(219, 220, 220);
+    width: 100%;
+    height: 440px;
+    border-radius: 12px;
+    margin-bottom: 64px;
+    border-radius: 12px;
+
+}
+.form_body{
+    padding-top: 5px;
+    display: grid; 
+    /* padding-left: 30px;  */
+}
+
+.form_body input {
+    width: 350px;
+    height: 50px;
+    outline: none;
+    border:rgb(163, 160, 160) 2px solid;
+    border-radius: 30px;
+    padding-left: 5px;
+    background-color: rgb(232, 230, 227);
+}
+.form_body textarea{
+    width: 500px;
+    height: 100px;
+    outline: none;
+    border:rgb(163, 160, 160) 2px solid;
+    border-radius: 5px;
+    padding-left: 5px;
+    background-color: rgb(232, 230, 227);
+}
+.form_body :nth-child(11){
+    border: none;
+    padding-top: 2px;
+    margin-top: 20px;
+    cursor: pointer;
+    box-sizing: content-box;
+    background-color: lightgreen;
+    cursor: pointer;
+    
+}
+.socialicon{
+    margin-top: 60px;
+    
+}
+
+
+/* .form  :nth-child(1){
+   
+  
+}
+.form :nth-child(2){
+   padding-bottom: 50px;
+   border-radius: 10px;
+  
+     
+}
+.form :nth-child(3){
+    padding-bottom: 50px;
+    border-radius: 10px;
+   
+     
+}
+.form :nth-child(4){
+    padding-bottom: 50px;
+    border-radius: 10px;
+    border-radius: 10px;
+   
+    
+}
+.form :nth-child(5){ 
+    padding-bottom: 50px;
+    border-radius: 10px;
+    border-radius: 10px;
+   
+    
+} */
+
+
+
+

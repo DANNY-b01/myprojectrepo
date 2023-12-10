@@ -1,0 +1,19 @@
+.main{
+    height: 100vh;
+    background-size: contain;
+    border-radius: 10px;     
+    background-repeat: no-repeat;
+    background-image: url(/images/phone1.jpg);
+    cursor: pointer
+
+
+}
+
+
+
+
+
+/* .main:hover{
+    cursor: pointer;
+    
+} */

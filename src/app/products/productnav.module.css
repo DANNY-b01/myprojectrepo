@@ -1,0 +1,42 @@
+.products{
+    background-color:white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+    position: static;
+
+}
+
+
+
+.nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+.nav li{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    gap: 10px;
+    justify-content: center;
+}
+.nav li{
+    padding: 20px 10px;
+}
+.nav ul:last-of-type li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+}
+.nav ul:last-of-type li:hover{
+    background-color:rgba(128,128,128,0.264);
+    border-bottom: 2px solid white;
+
+
+}
