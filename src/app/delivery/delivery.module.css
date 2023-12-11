@@ -1,0 +1,90 @@
+.container {
+    width: 70%;
+    
+    padding: 5rem; 
+    margin: auto; 
+    box-shadow: 2px 1px 15px rgba(0, 0, 0, 0.1); 
+
+
+
+     place-items: center;
+
+   
+  }
+  
+  .title {
+    font-size: 1.5rem; 
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  /* .paragraph {
+    font-size: 0.875rem; /* Smaller text size */
+    /* color: #555; /* Adjust the color as needed */
+    /* line-height: 1.6; */
+    /* margin-bottom: 1rem; */
+    /* width: ; */ 
+  
+  
+  .richTextSection {
+    margin-top: 2rem;
+  }
+  
+  .sectionTitle {
+    font-size: 1.25rem; /* Smaller section title size */
+    font-weight: bold;
+    color: #333; /* Adjust the color as needed */
+    margin-bottom: 0.5rem;
+  }
+  
+  .sectionContent {
+    font-size: 0.875rem; /* Smaller text size */
+    margin-bottom: 1.5rem;
+  }
+  
+  .listItem {
+    font-size: 0.875rem; /* Smaller text size */
+    color: #555; /* Adjust the color as needed */
+    line-height: 1.6;
+  }
+  
+  .contactButton {
+    background-color: #4CAF50; /* Example green color */
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem; /* Rounded corners for the button */
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 1.5rem; /* Space above the button */
+    cursor: pointer; /* Changes cursor to indicate it's clickable */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    font-size: 0.875rem; /* Smaller text size for the button */
+  }
+  
+  .contactButton:hover {
+    background-color: #367C2B; /* Darker shade of button color on hover */
+  }
+  
+  
+  .other{
+    border: 1px solid rgba(128, 128, 128, 0.608);
+    width: 10;
+    border: 10;
+    border-radius: 10px;
+    padding: 10px;
+   
+    margin-left: 150px;
+    text-align: center;
+    
+    
+  }
+.btn1{
+  margin-top: 15px;
+  background-color: #4CAF50;
+  border-radius: 6px;
+  color: white;
+  font-weight: 100;
+  padding: 8px 22px;
+
+}

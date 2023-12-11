@@ -16,7 +16,7 @@ import  styles from "./navbar.module.css"
  import Link from "next/link";
 
  
- const italin= Dancing_Script({subsets:['latin']})
+ const italin= Dancing_Script0({subsets:['latin']})
 
 export default function Navbar() {
   return (
@@ -39,15 +39,9 @@ export default function Navbar() {
             <span>Home</span>
             </li>
             </Link>
-
-            <Link href="/">
+            <Link href="/delivery"> 
             <li>
-                <span>Recipes</span></li>
-            </Link>
-
-            <Link href="/products"> 
-            <li>
-                <span>Favourite</span>
+                <span>Delivery</span>
             </li>
             </Link>
 
@@ -84,7 +78,7 @@ export default function Navbar() {
 
           
         </ul>
-           
+  
     </nav>
   )
 }

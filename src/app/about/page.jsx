@@ -9,7 +9,7 @@ export default function Aboutpage() {
         About us!!
         <p >
           <strong>
-          all you need is the right gadget
+          ALl you need is the right gadget!!!
           </strong>
         
         </p>
